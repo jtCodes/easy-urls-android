@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/5ef67606fdf74eebc71c466f8ecca020622b200b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_58bcdf537d116746b641d68c7ceebb00f28d922a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_3b35cfc64ac5c29ffd77a3ffa09b7bf6e18deca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/64d16179d27014cbd839e5ee2b1c2140f67490fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91580cd057a26c49c7f8a2abf985bd931bdc446d">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_d9737054a1128feba10b36ac77d27f52cac869eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/b5902dffc495674147f2e42fc18637a7701e218c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af0fe468c884e2d153cf564326b23b54ff0040ce">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_096197761d10214f0a29e477a7a21bc6d4648338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/f78ac9d5d7bb47e4404fcf999eef3660e2efaf04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10091a128e47ed4ef804bd753c0f45745699756">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_ac1196317ffa79e7cb991310d3f974aad05cd7d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/b54da63bd86420a8d9ae6e186ae0d8084120eeab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_be88ef819ab27fa425ecd4d434a44e749e272d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/38e5f5ac71b88d19398351e0f27662c90d907168/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_9d7bd4bb5b81911e31f119b485e08af218f0cc6f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_473a6d76beacf6af392c51c68c632472fcdbf8b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/e9243fdf5b6e6753b7ed3c4fba1335e27837bb77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_76535e7754fc7f28ab95a5b51f3c90024b22ce14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.8/bf88c7b27e95cbadce4e7c316a56c3efffda8026/jackson-databind-2.8.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf88c7b27e95cbadce4e7c316a56c3efffda8026">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/jackson-databind-2.8.8_fc180dd45421c6f29a1ae22f9c3c140cef99fe99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/5e2a68198a9b06e15f194f5787429be4cfad6ac5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd4c42401d36342901ac4280fb92a831f8007f3d">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_215c2b75103e8a3a46ae3a267183abb7be5651a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/530905b3c522368af71955cf1d996b013a2e2dc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_ac8adad5d6fa12fed1205a3889bbb02247a1120b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/ecd3a11a42ed8471cd6700127adb7ede3e97ba7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_943fd71f524cf21e5afa67c7d32580e472bfaf71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_0d5c19396926c835320e1e030b32f1ea2decc636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.0/45b426f7796b741035581a176744d91090e2e6fb/jackson-annotations-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45b426f7796b741035581a176744d91090e2e6fb">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.8.0_0a800553109654572eb7010a5a61bd14b2db1da0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/library-2.4.0_b0485a299b85edde1c7b3f65e616be2b6cc071de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/e2b5a6ab379186b460feee31b36d0d88ac11d370/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_4e975807d9b3e8e7ef1189ffffa97a18ba3619fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_a41761463070613f552ea909b6f317fbbca1fb3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_5d5cf67c906a3c9c70f62d0c7bf214fd837887c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/f5d509934d54bb894f7816d6887db823afb6d5f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89ba8466f3e32427af7aa725eb7be31a15c78a77">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_d005ee61703f00b532647d24921a749466ab6b00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/833c5b9abbb07c588496f1c62c8bc115ea524d97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_01a06ebd97fc1828cea5f2369683832b3f48d058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.6.0_90c963b7478282345382a39ffd2828daa7383e88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/2c41b595c707e33ef98ebb0b5f257cdf94e7ea58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_72ca280fa4fdcd9ba5ba5e4eb196a48c2d9b107c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/051dbd5ca34111e0b0e60cde80bc5dfed147f249/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_1bb10c6c1fb61fb766229adece50f1a425e40c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/b212965b2f6c2a3d3e444772f88f0f5d3bb0e4d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_b746d72ed92d89f53642324ecbddfdcaaf3b522c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/d4ea8a0346f204b072149819d0e3fe55ce1880cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb9817e26186e1a267cdd14211742ecc793de32e">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_72f54c973be6e8d26a30cbc27645bc65c11d35ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="899e5e4613e9a3cc3ee22220dccd103f65034b50">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f1378a2de58d766ea5b7af432519a6360df3ff26/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/a155942884f0ee386460c56551caaf23bcf330d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_94bdc84597cb078396b77769d02b5c47fa7ccfb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_85b3d9495dda41418d6fa9d9db0f7493f7906066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_21cad46865de24c1b549202d405df21657fa5526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/gson-2.6.1_d96ed3298b542f49063ed51ee78a5b4f8aff423a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/okio-1.13.0_1d73d5ee50a6034af44c94d6b68b89e2b738fb86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/9759c9b71ae5c51cea46dd9a5215dc67a3f78057/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_817c999198c8f574e651820ba41869de9cc7f35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.8/d478fb6de45a7c3d2cad07c8ad70c7f0a797a020/jackson-core-2.8.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d478fb6de45a7c3d2cad07c8ad70c7f0a797a020">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/jackson-core-2.8.8_872406f3543df916326f4a3bed7c5e10097fc2e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/J/.android/build-cache/0049dbc7d22d88091661cf5fabee2ce268cabb85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/J/Documents/Work-Shop/UrlShortener/app/build/intermediates/pre-dexed/debug/classes_35ddb7906f45dd365bf2d0c960ccd15006cc7304.jar" />
+    </item>
+
+</items>
