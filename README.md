@@ -2,7 +2,7 @@
 
 Easily shorten and manage your long URLs in one place. Paste any long URLs and Easy Urls will turn it into a shorter URL and store it until you delete it.
 
-# About Easy Urls 
+## About Easy Urls 
 
 <h4> Product features:</h4>
   <ul>
