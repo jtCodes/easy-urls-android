@@ -4,7 +4,7 @@ Easily shorten and manage your long URLs in one place. Paste any long URLs and E
 
 # About Easy Urls 
 
-<h2> Product features:</h2>
+<h4> Product features:</h4>
   <ul>
   <li> Shorten long URLs </li>
   <li> Delete or copy URLs easily by swiping </li>
